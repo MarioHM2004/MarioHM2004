@@ -5,7 +5,7 @@
      machine learning." One sentence. It is the first thing a recruiter reads. -->
 
 I build projects end to end and keep the engineering notes next to the code.
-Three places to start:
+A few places to start:
 
 **[memory-holder](https://github.com/MarioHM2004/memory-holder)** - a shared
 private diary for couples: a memory roulette, a timeline, and categories for
