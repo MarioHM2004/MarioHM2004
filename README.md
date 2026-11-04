@@ -1,42 +1,41 @@
-## Mario Herranz
+# Mario Herranz
 
-<!-- TODO: replace this line with where you are and what you want next, e.g.
-     "Software engineering student at Epitech, looking for a 2027 internship in
-     machine learning." One sentence. It is the first thing a recruiter reads. -->
+Final-year software engineering student at [Epitech](https://www.epitech.eu/),
+after an exchange year at Beijing Jiaotong University. I am moving from
+full-stack and systems work into machine learning engineering: training,
+evaluating and serving models, not only calling APIs.
 
-I build projects end to end and keep the engineering notes next to the code.
-A few places to start:
+Looking for a full-time internship from March 2027.
 
-**[memory-holder](https://github.com/MarioHM2004/memory-holder)** - a shared
-private diary for couples: a memory roulette, a timeline, and categories for
-photos and videos. Live at
-[memory-holder.com](https://memory-holder.com). Next.js 16 and
-Supabase, with Row Level Security so a diary is only ever visible to its own
-members. Sole author. Ships with architecture and data-model docs, and the SQL
-migrations behind onboarding, invite codes and account deletion.
+## Now
 
-**[sentiment-analysis](https://github.com/MarioHM2004/sentiment-analysis)** -
-DistilBERT fine-tuned on IMDB, 92.89 % test accuracy. Hyperparameter sweeps
-logged in `EXPERIMENTS.md`, ablations in a notebook, headline numbers in
-`results/metrics.json`, and an `evaluate.py` that reproduces them from the
-checkpoint.
+- Working through neural networks from first principles in PyTorch.
+- Next: a small GPT trained from scratch on my own GPU, with measured
+  optimisations and a documented evaluation.
+- Learning Mandarin (HSK 3).
 
-**[char-RNN](https://github.com/MarioHM2004/char-RNN)** - a stacked LSTM
-generating Shakespeare with temperature-controlled sampling.
+## Machine learning
 
-**[mnist-vae](https://github.com/MarioHM2004/mnist-vae)** - a variational
-autoencoder with latent-space interpolation between digits.
+| Project | What it shows |
+| --- | --- |
+| [sentiment-analysis](https://github.com/MarioHM2004/sentiment-analysis) | DistilBERT fine-tuned on IMDB, 92.89 % test accuracy. Team of five; I was the model lead and ran the hyperparameter sweeps in `EXPERIMENTS.md`. |
+| [char-RNN](https://github.com/MarioHM2004/char-RNN) | Stacked LSTM language model on Tiny Shakespeare, with temperature-controlled sampling. |
+| [mnist-vae](https://github.com/MarioHM2004/mnist-vae) | Variational autoencoder on MNIST: sampling, latent interpolation and a t-SNE of the latent space. |
 
-Also here: [R-Type](https://github.com/MarioHM2004/R-Type), a networked multiplayer
-remake of the arcade game in C++ on a custom engine, built by a team of five.
-<!-- TODO: add the parts you wrote, e.g. "I wrote the UDP protocol layer and the
-     multi-threaded server loop." Without it a reader assumes solo work, and
-     that is the question an interviewer will ask. -->
+## Software
 
-**Working with:** TypeScript, Next.js, Python, PyTorch, C, C++, PostgreSQL.
+| Project | What it shows |
+| --- | --- |
+| [memory-holder](https://github.com/MarioHM2004/memory-holder) | Private shared diary for couples, live at [memory-holder.com](https://memory-holder.com). Next.js and Supabase, with Row Level Security isolating each diary. Sole author, with architecture and data-model docs. |
+| [R-Type](https://github.com/MarioHM2004/R-Type) | Multiplayer shoot'em up in C++ over UDP, team of five. I built the client networking (`NetworkManager` on Asio, applying server state updates) and the animation and parallax systems. |
 
-<!-- TODO: contact. An email or a LinkedIn link here is the difference between
-     someone finding the profile interesting and someone messaging you. -->
+## Tools
+
+Python · PyTorch · Hugging Face Transformers · TypeScript · Next.js · PostgreSQL · C · C++ · Docker
+
+## Contact
+
+[marioherranz.dev@gmail.com](mailto:marioherranz.dev@gmail.com)
 
 ---
 
