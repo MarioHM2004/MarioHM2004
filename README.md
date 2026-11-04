@@ -22,13 +22,10 @@ logged in `EXPERIMENTS.md`, ablations in a notebook, headline numbers in
 checkpoint.
 
 **[char-RNN](https://github.com/MarioHM2004/char-RNN)** - a stacked LSTM
-generating Shakespeare with temperature-controlled sampling;
-[mnist-vae](https://github.com/MarioHM2004/mnist-vae), a variational
-autoencoder with latent-space interpolation between digits; and
-[Zappy](https://github.com/MarioHM2004/Zappy), a seven-person network game
-in C.
+generating Shakespeare with temperature-controlled sampling.
 
-
+**[mnist-vae](https://github.com/MarioHM2004/mnist-vae)** - a variational
+autoencoder with latent-space interpolation between digits.
 
 Also here: [R-Type](https://github.com/MarioHM2004/R-Type), a networked multiplayer
 remake of the arcade game in C++ on a custom engine, built by a team of five.
