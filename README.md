@@ -2,16 +2,18 @@
 
 Final-year software engineering student at [Epitech](https://www.epitech.eu/),
 after an exchange year at Beijing Jiaotong University. I am moving from
-full-stack and systems work into machine learning engineering: training,
-evaluating and serving models, not only calling APIs.
+full-stack and systems work (including safety-critical embedded C) into AI
+engineering: building LLM and retrieval systems that ship, and understanding
+the models underneath well enough to train and evaluate them.
 
-Looking for a full-time internship from March 2027.
+Open to a full-time internship from March 2027 (Madrid or remote). From
+September 2027 open to remote part-time work.
 
 ## Now
 
-- Working through neural networks from first principles in PyTorch.
-- Next: a small GPT trained from scratch on my own GPU, with measured
-  optimisations and a documented evaluation.
+- AI engineering intern at Cloud District: retrieval pipelines and LLM
+  integration for client products.
+- Building a RAG system over Van Gogh's letters, starting with the evaluation set.
 - Learning Mandarin (HSK 3).
 
 ## Machine learning
