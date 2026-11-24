@@ -6,8 +6,9 @@ full-stack and systems work (including safety-critical embedded C) into AI
 engineering: building LLM and retrieval systems that ship, and understanding
 the models underneath well enough to train and evaluate them.
 
-Open to a full-time internship from March 2027 (Madrid or remote). From
-September 2027 open to remote part-time work.
+Open to full-time work from March 2027, as an internship or a regular
+contract (Madrid or remote). From September 2027, open to remote part-time
+work.
 
 ## Now
 
